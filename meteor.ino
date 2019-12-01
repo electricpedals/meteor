@@ -1,7 +1,7 @@
 #include "FastLED.h"
 #include <Adafruit_ADS1015.h>
 #define NUM_LEDS 60 
-#define START_LEDS 25 
+#define START_LEDS 26 
 CRGB leds[NUM_LEDS];
 #define PIN 14
 Adafruit_ADS1115 adc;
